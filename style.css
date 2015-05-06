@@ -1,0 +1,16 @@
+body {
+	font-family: "Sans-serif";
+}
+
+p 	{
+	font-size: 14px;
+}
+
+a	{
+	text-decoration: none;
+	color: #339933;
+}
+
+a:hover {
+	text-decoration: underline;
+}
