@@ -2,7 +2,7 @@ body {
 	font-family: "Sans-serif";
 }
 
-p 	{
+p, li {
 	font-size: 14px;
 }
 
@@ -14,3 +14,40 @@ a	{
 a:hover {
 	text-decoration: underline;
 }
+
+header {
+	color: #000000;
+}
+
+header:hover {
+	text-decoration: none;
+}
+
+.title {
+	text-align: center;
+}
+
+table {
+	text-align: left;
+}
+
+label {
+	width: 200px;
+	font-weight: bold;
+}
+
+input {
+	font-size: 14px;
+	padding: 3px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+
+.button {
+	background-color: #3366cc;
+}
+
+.button:hover{
+	cursor: pointer;
+}
+
